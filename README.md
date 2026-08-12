@@ -1,6 +1,6 @@
 # House of the Dragon — Thumbnails
 
-Bildablage für die YouTube-Uploads der Folgenbesprechungs-Reihe. Öffentlich, damit
+Bildablage für die YouTube-Uploads der Reihe: acht Folgenbesprechungen plus das Essay über die ganze Staffel. Öffentlich, damit
 `youtubeThumbnailUrl` bei upload-post dauerhaft erreichbar bleibt (das Staging von
 upload-post läuft nach 6 Stunden ab, `raw.githubusercontent.com` nicht).
 
@@ -19,5 +19,6 @@ Alle Bilder: 1280×720, JPG, unter 2 MB.
 | S3E06 | Fünf Sekunden Stille | https://raw.githubusercontent.com/evoldotv-ops/hotd-thumbnails/main/S3E06_thumbnail.jpg |
 | S3E07 | Sechs Antworten | https://raw.githubusercontent.com/evoldotv-ops/hotd-thumbnails/main/S3E07_thumbnail.jpg |
 | S3E08 | Zweihundertelf Sekunden | https://raw.githubusercontent.com/evoldotv-ops/hotd-thumbnails/main/S3E08_thumbnail.jpg |
+| Essay | Story Circle (ganze Staffel) | https://raw.githubusercontent.com/evoldotv-ops/hotd-thumbnails/main/S3_Essay_thumbnail.jpg |
 
 Nach dem letzten Upload darf das Repo weg — YouTube hostet die Thumbnails dann selbst.
