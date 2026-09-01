@@ -1,0 +1,955 @@
+1
+00:01:00,290 --> 00:01:05,827
+Wenn du diesen Kanal noch nicht abonniert hast: Genau dafür ist er da.
+
+2
+00:01:05,947 --> 00:01:08,797
+Wir messen, statt zu behaupten.
+
+3
+00:01:08,917 --> 00:01:14,118
+Abo und Glocke, dann verpasst du die nächste Analyse nicht.
+
+4
+00:01:14,238 --> 00:01:18,794
+Einen Hinweis vorweg, und den meine ich ernst.
+
+5
+00:01:18,914 --> 00:01:26,088
+In dieser Folge geht es um Zwang, um eine erzwungene Abtreibung und um einen Suizid.
+
+6
+00:01:26,208 --> 00:01:29,656
+Wenn dich das gerade trifft, schau sie ein andermal.
+
+7
+00:01:29,776 --> 00:01:34,165
+In der Beschreibung steht die Nummer der Telefonseelsorge.
+
+8
+00:01:34,285 --> 00:01:36,813
+Ich zeige den Sprung nicht.
+
+9
+00:01:36,933 --> 00:01:38,836
+Nicht aus Vorsicht.
+
+10
+00:01:38,956 --> 00:01:44,236
+Sondern weil das Bild die schwächste Stelle der ganzen Geschichte ist.
+
+11
+00:01:44,356 --> 00:01:46,775
+Fangen wir mit der Frage an.
+
+12
+00:01:46,895 --> 00:01:50,889
+Was wäre, wenn Helaena nicht gesprungen wäre.
+
+13
+00:01:51,009 --> 00:01:55,559
+Die Frage klingt, als hätte es eine Abzweigung gegeben.
+
+14
+00:01:55,679 --> 00:02:02,055
+Als hätte in Folge acht ein Moment existiert, an dem es auch anders hätte laufen können.
+
+15
+00:02:02,175 --> 00:02:04,347
+Genau das behaupte ich nicht.
+
+16
+00:02:04,467 --> 00:02:09,286
+Und ich behaupte es deshalb nicht, weil die Staffel etwas anderes tut.
+
+17
+00:02:09,406 --> 00:02:15,337
+Sie nimmt ihr den Ausweg nicht am Ende, sondern einzeln, über acht Folgen verteilt.
+
+18
+00:02:15,457 --> 00:02:18,857
+Jedes Mal geht es um etwas anderes.
+
+19
+00:02:18,977 --> 00:02:26,775
+Um ihre Entscheidung, um ihren Körper, um ihr Kind, um ihre Bewegungsfreiheit und zuletzt um ihr Essen.
+
+20
+00:02:26,895 --> 00:02:31,559
+Übrig bleibt genau eine Handlung, die ihr niemand abnehmen kann.
+
+21
+00:02:31,679 --> 00:02:33,739
+Zuerst die Zahl.
+
+22
+00:02:33,859 --> 00:02:39,148
+Ich habe die Tonspuren aller acht Folgen durch eine Spracherkennung geschickt.
+
+23
+00:02:39,268 --> 00:02:47,310
+Die liefert nicht nur den Text, sondern für jedes einzelne Wort einen Anfang und ein Ende, auf die Hundertstelsekunde.
+
+24
+00:02:47,430 --> 00:02:52,487
+Damit lässt sich die gesamte gesprochene Zeit der Staffel addieren.
+
+25
+00:02:52,607 --> 00:02:57,130
+Sie liegt bei hundertsiebenundsechzig Minuten.
+
+26
+00:02:57,250 --> 00:03:04,018
+Dann habe ich Helaenas Repliken herausgesucht und ihre Wortzeiten summiert.
+
+27
+00:03:04,138 --> 00:03:07,242
+Es sind einundzwanzig Repliken.
+
+28
+00:03:07,362 --> 00:03:12,172
+Zusammen sind das einundsechzig Komma drei Sekunden.
+
+29
+00:03:12,292 --> 00:03:17,759
+Das sind null Komma sechs eins Prozent des gesprochenen Wortes.
+
+30
+00:03:17,879 --> 00:03:21,827
+Jetzt kommt der Teil, den die meisten Videos weglassen.
+
+31
+00:03:21,947 --> 00:03:25,359
+Nämlich der, wo ich mich fast vertan hätte.
+
+32
+00:03:25,479 --> 00:03:29,645
+Eine Spracherkennung sagt dir, wann etwas gesagt wird.
+
+33
+00:03:29,765 --> 00:03:33,171
+Sie sagt dir nicht, wer es sagt.
+
+34
+00:03:33,291 --> 00:03:36,648
+Also habe ich zuerst die Stimmhöhe gemessen.
+
+35
+00:03:36,768 --> 00:03:45,429
+Das Verfahren funktioniert oft: Männer liegen tiefer, Frauen höher, und dazwischen zieht man eine Grenze.
+
+36
+00:03:45,549 --> 00:03:48,410
+Hier funktioniert es nicht.
+
+37
+00:03:48,530 --> 00:03:59,027
+Helaena, Alicent und Rhaenyra liegen alle zwischen hundertsiebzig und zweihundertdreißig Hertz, drei Frauenstimmen im selben Register.
+
+38
+00:03:59,147 --> 00:04:02,452
+Die Messung trennt an dieser Stelle gar nichts.
+
+39
+00:04:02,572 --> 00:04:04,502
+Also der zweite Versuch.
+
+40
+00:04:04,622 --> 00:04:09,122
+Ein Modell, das Stimmen als Fingerabdruck vergleicht.
+
+41
+00:04:09,242 --> 00:04:15,490
+Ich habe es an zwölf Stellen geprüft, bei denen völlig klar ist, wer spricht.
+
+42
+00:04:15,610 --> 00:04:19,241
+Das Modell hat sieben davon richtig erkannt.
+
+43
+00:04:19,361 --> 00:04:21,109
+Sieben von zwölf.
+
+44
+00:04:21,229 --> 00:04:26,509
+Bei Alicent lag es immer richtig, bei Rhaenyra kein einziges Mal.
+
+45
+00:04:26,629 --> 00:04:29,331
+Das sind achtundfünfzig Prozent.
+
+46
+00:04:29,451 --> 00:04:31,838
+Damit kann man nicht arbeiten.
+
+47
+00:04:31,958 --> 00:04:37,334
+Ich sage dir das so ausführlich, weil du solche Zahlen sonst nirgends siehst.
+
+48
+00:04:37,454 --> 00:04:44,347
+Ein Video, das behauptet, es habe gemessen, zeigt dir nie die Verfahren, die durchgefallen sind.
+
+49
+00:04:44,467 --> 00:04:46,993
+Geblieben ist die Handarbeit.
+
+50
+00:04:47,113 --> 00:04:54,150
+Jede Replik einzeln zuordnen, über den Inhalt, und dann am Bild gegenprüfen.
+
+51
+00:04:54,270 --> 00:04:58,132
+Der Inhalt ist bei ihr fast immer eindeutig.
+
+52
+00:04:58,252 --> 00:05:03,945
+Helaena spricht über Käfer, über ihre Träume und über ihr Kind.
+
+53
+00:05:04,065 --> 00:05:07,310
+Die Gegenseite spricht Politik.
+
+54
+00:05:07,430 --> 00:05:12,255
+Und das Gegenprüfen am Bild hat sich sofort ausgezahlt.
+
+55
+00:05:12,375 --> 00:05:16,690
+In Folge sechs hatte ich eine Passage als ihre gezählt.
+
+56
+00:05:16,810 --> 00:05:25,517
+Ein Blick auf die Bilder zeigt: Diese Sätze gehören zur Szene davor, in der zwei Männer in einem dunklen Raum stehen.
+
+57
+00:05:25,637 --> 00:05:28,968
+Acht Sekunden, die ich wieder rausgenommen habe.
+
+58
+00:05:29,088 --> 00:05:32,629
+Umgekehrt habe ich zwei Repliken übersehen.
+
+59
+00:05:32,749 --> 00:05:37,530
+Eine davon hängt in Folge zwei an einem einzigen Wort.
+
+60
+00:05:37,650 --> 00:05:40,171
+Sie sagt: mein Großvater.
+
+61
+00:05:40,291 --> 00:05:45,095
+Gemeint ist Otto Hightower, und der ist Alicents Vater.
+
+62
+00:05:45,215 --> 00:05:49,701
+Damit ist der Satz ihrer und niemandes sonst.
+
+63
+00:05:49,821 --> 00:05:53,548
+Die Zahl steht bei einundsechzig Sekunden.
+
+64
+00:05:53,668 --> 00:06:00,645
+Sie ist eher zu niedrig als zu hoch, denn zwei strittige Repliken habe ich gar nicht mitgezählt.
+
+65
+00:06:00,765 --> 00:06:03,086
+Jetzt gehen wir die Staffel durch.
+
+66
+00:06:03,206 --> 00:06:08,860
+Und zwar entlang der Frage, was ihr in welcher Folge genommen wird.
+
+67
+00:06:08,980 --> 00:06:10,434
+Folge zwei.
+
+68
+00:06:10,554 --> 00:06:13,855
+Was ihr genommen wird, ist die Entscheidung.
+
+69
+00:06:13,975 --> 00:06:16,464
+Rhaenyra steht vor der Stadt.
+
+70
+00:06:16,584 --> 00:06:24,092
+Aegon ist weg, Aemond ist weg, und plötzlich ist Helaena formal die Mächtigste in Königsmund.
+
+71
+00:06:24,212 --> 00:06:26,179
+Alicent kommt zu ihr.
+
+72
+00:06:26,299 --> 00:06:31,514
+Und was dann passiert, ist der Trick der ganzen Staffel im Kleinen.
+
+73
+00:06:31,634 --> 00:06:35,211
+Alicent sagt ihr, sie sei die Königin.
+
+74
+00:06:35,331 --> 00:06:38,134
+Sie sagt ihr, worauf die Wachen hören.
+
+75
+00:06:38,254 --> 00:06:41,612
+Sie legt ihr den Befehl fertig in den Mund.
+
+76
+00:06:41,732 --> 00:06:44,516
+Helaena widerspricht sogar.
+
+77
+00:06:44,636 --> 00:06:48,275
+Sie sagt, ihr Vater habe es sich anders überlegt.
+
+78
+00:06:48,395 --> 00:06:59,228
+Sie sagt, Alicent habe Aegon zum König gemacht, gemeinsam mit Criston und ihrem Großvater und dem Septon, und das sei ein Fehler gewesen.
+
+79
+00:06:59,348 --> 00:07:03,759
+Das ist der längste zusammenhängende Widerspruch ihres Lebens.
+
+80
+00:07:03,879 --> 00:07:06,303
+Er dauert sechs Sekunden.
+
+81
+00:07:06,423 --> 00:07:09,037
+Alicent antwortet mit einer Frage.
+
+82
+00:07:09,157 --> 00:07:12,740
+Ob sie glücklicher war, bevor sie Königin wurde.
+
+83
+00:07:12,860 --> 00:07:17,172
+Und Helaena sagt den Satz, an dem jeder hängen bleibt.
+
+84
+00:07:17,292 --> 00:07:20,380
+Sie glaube, sie würde gerne Hühner halten.
+
+85
+00:07:20,500 --> 00:07:23,480
+Alle lesen diesen Satz als niedlich.
+
+86
+00:07:23,600 --> 00:07:26,174
+Er ist das Gegenteil.
+
+87
+00:07:26,294 --> 00:07:31,727
+Es ist das einzige Mal in acht Folgen, dass sie sagt, was sie selbst will.
+
+88
+00:07:31,847 --> 00:07:35,213
+Es dauert zwei Komma sieben Sekunden.
+
+89
+00:07:35,333 --> 00:07:40,488
+Zehn Sekunden später gibt sie den Befehl, den Alicent formuliert hat.
+
+90
+00:07:40,608 --> 00:07:42,326
+Und die Stadt fällt.
+
+91
+00:07:42,446 --> 00:07:43,607
+Folge fünf.
+
+92
+00:07:43,727 --> 00:07:47,089
+Was ihr genommen wird, ist der Körper.
+
+93
+00:07:47,209 --> 00:07:49,183
+Helaena ist schwanger.
+
+94
+00:07:49,303 --> 00:07:52,930
+Und Alicent kommt mit einer Tasse.
+
+95
+00:07:53,050 --> 00:07:54,720
+Sie nennt es Tee.
+
+96
+00:07:54,840 --> 00:07:58,353
+Sie nennt es ein Präparat der Zitadelle.
+
+97
+00:07:58,473 --> 00:08:04,503
+Sie sagt, es habe sie selbst vor Schande bewahrt, und Rhaenyra ebenso.
+
+98
+00:08:04,623 --> 00:08:07,807
+Helaena sagt: Ich kann das nicht tun.
+
+99
+00:08:07,927 --> 00:08:10,250
+Sie sagt: Ich kann nicht.
+
+100
+00:08:10,370 --> 00:08:12,286
+Sie sagt: Kein Tee.
+
+101
+00:08:12,406 --> 00:08:13,505
+Nein.
+
+102
+00:08:13,625 --> 00:08:18,775
+Dann sagt sie den einzigen Satz, den sie in dieser Staffel schreit.
+
+103
+00:08:18,895 --> 00:08:20,148
+Es ist mein Kind.
+
+104
+00:08:20,268 --> 00:08:22,055
+Es gehört mir.
+
+105
+00:08:22,175 --> 00:08:25,639
+Achte auf die Kamera in dieser Szene.
+
+106
+00:08:25,759 --> 00:08:29,819
+Während Helaena verweigert, hält sie auf Alicent.
+
+107
+00:08:29,939 --> 00:08:32,966
+Wir sehen nicht die, die Nein sagt.
+
+108
+00:08:33,086 --> 00:08:36,316
+Wir sehen die, die überredet.
+
+109
+00:08:36,436 --> 00:08:38,858
+Das ist keine Nachlässigkeit.
+
+110
+00:08:38,978 --> 00:08:43,678
+Das ist die Regieentscheidung, die den ganzen Handlungsstrang trägt.
+
+111
+00:08:43,798 --> 00:08:51,745
+Und sie hat mich bei der Messung fast ausgebremst, weil das Bild an dieser Stelle die Zuordnung nicht bestätigt.
+
+112
+00:08:51,865 --> 00:08:55,724
+Fünf Komma fünf Sekunden Widerstand.
+
+113
+00:08:55,844 --> 00:08:58,605
+Der Rest der Szene gehört Alicent.
+
+114
+00:08:58,725 --> 00:09:05,453
+Zwischendurch, in derselben Folge, sitzt Helaena im Garten und erklärt einen Käfer.
+
+115
+00:09:05,573 --> 00:09:08,747
+Er frisst die Blätter vom Nachtschatten, sagt sie.
+
+116
+00:09:08,867 --> 00:09:12,266
+Und die seien tödlich für dich und mich.
+
+117
+00:09:12,386 --> 00:09:19,309
+Sechs Sekunden über ein Insekt, das Gift frisst und selbst nicht daran stirbt.
+
+118
+00:09:19,429 --> 00:09:21,444
+Das kommt später noch einmal.
+
+119
+00:09:21,564 --> 00:09:23,021
+Folge sechs.
+
+120
+00:09:23,141 --> 00:09:26,581
+Was ihr genommen wird, ist das Kind.
+
+121
+00:09:26,701 --> 00:09:28,936
+Jaehaera ist fort.
+
+122
+00:09:29,056 --> 00:09:32,809
+Und Helaena weiß es noch nicht sicher.
+
+123
+00:09:32,929 --> 00:09:38,034
+Sie sitzt mit einer Stickerei am Fenster und stellt zwei Fragen.
+
+124
+00:09:38,154 --> 00:09:40,911
+Ob Mysaria vom Fluchtplan wusste.
+
+125
+00:09:41,031 --> 00:09:47,185
+Und ob ihre Tochter wirklich fortgebracht wurde, damit sie sie später wiedersehen.
+
+126
+00:09:47,305 --> 00:09:49,400
+Sie fragt es hoffnungsvoll.
+
+127
+00:09:49,520 --> 00:09:52,766
+Sie hält Alicent eine Tür auf.
+
+128
+00:09:52,886 --> 00:09:55,386
+Alicent geht nicht durch.
+
+129
+00:09:55,506 --> 00:09:58,104
+Sie sagt: Vergib mir.
+
+130
+00:09:58,224 --> 00:10:01,153
+Der Weg vor uns war voller Gefahren.
+
+131
+00:10:01,273 --> 00:10:03,119
+Ein kleines Kind.
+
+132
+00:10:03,239 --> 00:10:06,719
+Und Helaena antwortet mit drei Wörtern.
+
+133
+00:10:06,839 --> 00:10:09,370
+Du hast gelogen.
+
+134
+00:10:09,490 --> 00:10:12,863
+Das dauert null Komma neun Sekunden.
+
+135
+00:10:12,983 --> 00:10:19,293
+Es ist ihr härtester Satz in der ganzen Staffel, und er ist kürzer als eine Sekunde.
+
+136
+00:10:19,413 --> 00:10:25,737
+In derselben Folge fällt nebenbei ein Satz über sie, nicht zu ihr.
+
+137
+00:10:25,857 --> 00:10:31,115
+Ihre Wache werde verdoppelt, und es gebe keine Spaziergänge mehr im Götterheim.
+
+138
+00:10:31,235 --> 00:10:34,140
+Damit ist der Bewegungsraum weg.
+
+139
+00:10:34,260 --> 00:10:36,107
+Sie hat kein Wort dazu.
+
+140
+00:10:36,227 --> 00:10:41,462
+Und dann kommt die Szene, um die es in diesem Video eigentlich geht.
+
+141
+00:10:41,582 --> 00:10:44,028
+Alicent muss weg.
+
+142
+00:10:44,148 --> 00:10:45,649
+Helaena bleibt.
+
+143
+00:10:45,769 --> 00:10:53,121
+Und zum ersten und einzigen Mal in acht Folgen stellt Helaena eine Frage über sich selbst.
+
+144
+00:10:53,241 --> 00:10:56,142
+Sie fragt: Warum bin ich hier.
+
+145
+00:10:56,262 --> 00:11:01,032
+Sie fragt: Gab es niemanden, der um meine Hand angehalten hat.
+
+146
+00:11:01,152 --> 00:11:06,052
+Und dann fragt sie das, was seit Staffel eins im Raum steht.
+
+147
+00:11:06,172 --> 00:11:11,631
+Ob es Alicents eigener Wunsch war, sie mit ihrem Bruder zu verheiraten.
+
+148
+00:11:11,751 --> 00:11:14,586
+Das sind neun Komma neun Sekunden.
+
+149
+00:11:14,706 --> 00:11:18,682
+Es ist die längste zusammenhängende Rede ihres Lebens.
+
+150
+00:11:18,802 --> 00:11:24,262
+Und jetzt schau, was die Regie in genau diesem Moment macht.
+
+151
+00:11:24,382 --> 00:11:28,277
+Bei den ersten Fragen hält die Kamera auf Helaena.
+
+152
+00:11:28,397 --> 00:11:31,677
+Bei der letzten, der härtesten, schneidet sie weg.
+
+153
+00:11:31,797 --> 00:11:33,251
+Auf Alicent.
+
+154
+00:11:33,371 --> 00:11:35,174
+Auf einen gesenkten Blick.
+
+155
+00:11:35,294 --> 00:11:38,532
+Die Serie zeigt uns nicht die Frau, die fragt.
+
+156
+00:11:38,652 --> 00:11:41,979
+Sie zeigt uns die Frau, die die Antwort kennt.
+
+157
+00:11:42,099 --> 00:11:47,035
+Alicents Antwort ist ein Geständnis in zwei Sätzen.
+
+158
+00:11:47,155 --> 00:11:50,050
+Es sei der Wunsch ihres Vaters gewesen.
+
+159
+00:11:50,170 --> 00:11:53,371
+Und sie habe nicht versucht, ihn umzustimmen.
+
+160
+00:11:53,491 --> 00:11:56,953
+Danach verspricht sie, zurückzukommen.
+
+161
+00:11:57,073 --> 00:11:59,577
+Sie verspricht, Helaena zu holen.
+
+162
+00:11:59,697 --> 00:12:04,522
+Sie sagt, sie gehen dann gemeinsam hinaus in die Sonne.
+
+163
+00:12:04,642 --> 00:12:07,398
+Das Versprechen wird nicht gehalten.
+
+164
+00:12:07,518 --> 00:12:13,244
+Folge sieben, kurz, weil hier nur vier Komma sieben Sekunden liegen.
+
+165
+00:12:13,364 --> 00:12:15,595
+Rhaenyra sitzt bei ihr.
+
+166
+00:12:15,715 --> 00:12:21,561
+Und Helaena stellt ihr die einzige unbequeme Frage, die in dieser Folge fällt.
+
+167
+00:12:21,681 --> 00:12:25,158
+Sie sagt: Du hast jetzt viele Drachen.
+
+168
+00:12:25,278 --> 00:12:29,813
+Und dann: Hast du dich nicht selbst auch verändert.
+
+169
+00:12:29,933 --> 00:12:32,209
+Rhaenyra sagt: Nein.
+
+170
+00:12:32,329 --> 00:12:34,585
+Das möchte ich auch gar nicht.
+
+171
+00:12:34,705 --> 00:12:43,003
+Die Frau, die kaum spricht, stellt der Frau, die alles entscheidet, die Frage, die das Finale beantwortet.
+
+172
+00:12:43,123 --> 00:12:44,300
+Folge acht.
+
+173
+00:12:44,420 --> 00:12:47,731
+Was ihr genommen wird, ist das Essen.
+
+174
+00:12:47,851 --> 00:12:54,017
+Der Satz, mit dem sie in dieser Folge eingeführt wird, sagt alles über ihre Stellung.
+
+175
+00:12:54,137 --> 00:13:03,614
+Ein Bote meldet Rhaenyra, Prinzessin Helaena weigere sich weiterhin zu essen, und die Mäster sorgten sich um ihre Gesundheit.
+
+176
+00:13:03,734 --> 00:13:07,426
+Insbesondere um das Kind in ihrem Bauch.
+
+177
+00:13:07,546 --> 00:13:09,483
+Insbesondere um das Kind.
+
+178
+00:13:09,603 --> 00:13:14,296
+Sie ist an dieser Stelle keine Person mehr, um die man sich sorgt.
+
+179
+00:13:14,416 --> 00:13:16,363
+Sie ist der Behälter.
+
+180
+00:13:16,483 --> 00:13:19,630
+Und dann sitzen die beiden am Fenster.
+
+181
+00:13:19,750 --> 00:13:28,171
+Rhaenyra redet über Viserys und dessen Grundsätze und darüber, wohin sie das Reich geführt haben.
+
+182
+00:13:28,291 --> 00:13:31,604
+Und Helaena redet über einen Käfer.
+
+183
+00:13:31,724 --> 00:13:35,453
+Er komme an der Schwelle zum Sommer aus dem Boden.
+
+184
+00:13:35,573 --> 00:13:37,681
+Er sei sehr farbenfroh.
+
+185
+00:13:37,801 --> 00:13:40,834
+Blau, Gold, Violett.
+
+186
+00:13:40,954 --> 00:13:43,525
+Er sehe aus wie eine Schildkröte.
+
+187
+00:13:43,645 --> 00:13:46,057
+Ob ihr das je aufgefallen sei.
+
+188
+00:13:46,177 --> 00:13:50,267
+Das sind vierzehn Komma sechs Sekunden.
+
+189
+00:13:50,387 --> 00:13:53,951
+Es ist ihre längste Passage in der ganzen Staffel.
+
+190
+00:13:54,071 --> 00:13:56,987
+Und sie handelt von einem Insekt.
+
+191
+00:13:57,107 --> 00:14:00,829
+Die meisten Zuschauer lesen das als Absonderlichkeit.
+
+192
+00:14:00,949 --> 00:14:04,024
+Als das Mädchen, das nicht ganz da ist.
+
+193
+00:14:04,144 --> 00:14:09,519
+Nimm die Käfer-Szene aus Folge fünf dazu, und es sieht anders aus.
+
+194
+00:14:09,639 --> 00:14:14,157
+Dort erklärt sie ein Tier, das Gift frisst und überlebt.
+
+195
+00:14:14,277 --> 00:14:21,000
+Hier beschreibt sie ein Tier, das im Boden wartet, bis der Sommer kommt, und dann herauskriecht.
+
+196
+00:14:21,120 --> 00:14:24,509
+Sie redet in beiden Szenen über dasselbe.
+
+197
+00:14:24,629 --> 00:14:29,363
+Über Überleben unter Bedingungen, die eigentlich tödlich sind.
+
+198
+00:14:29,483 --> 00:14:32,025
+Sie hat kein anderes Vokabular dafür.
+
+199
+00:14:32,145 --> 00:14:35,002
+Man hat ihr nie eins gegeben.
+
+200
+00:14:35,122 --> 00:14:37,175
+Zurück zur Ausgangsfrage.
+
+201
+00:14:37,295 --> 00:14:41,468
+Was wäre, wenn Helaena nicht gesprungen wäre.
+
+202
+00:14:41,588 --> 00:14:45,407
+Die ehrliche Antwort lautet: Nichts wäre anders.
+
+203
+00:14:45,527 --> 00:14:48,561
+Sie springt, weil nichts anders wäre.
+
+204
+00:14:48,681 --> 00:14:51,111
+Rechne die Staffel einmal durch.
+
+205
+00:14:51,231 --> 00:14:53,803
+Ihre Entscheidung wird ihr abgenommen.
+
+206
+00:14:53,923 --> 00:14:58,103
+Ihre Schwangerschaft soll gegen ihren Willen beendet werden.
+
+207
+00:14:58,223 --> 00:15:03,623
+Ihre Tochter wird fortgebracht und der Verlust mit einer Lüge zugedeckt.
+
+208
+00:15:03,743 --> 00:15:06,975
+Ihre Spaziergänge werden gestrichen.
+
+209
+00:15:07,095 --> 00:15:14,331
+Ihre Nahrungsverweigerung wird als medizinisches Problem behandelt, dessen Kern das ungeborene Kind ist.
+
+210
+00:15:14,451 --> 00:15:16,132
+Fünf Zugriffe.
+
+211
+00:15:16,252 --> 00:15:21,656
+Fünf verschiedene Menschen, die alle sagen, sie täten es zu ihrem Besten.
+
+212
+00:15:21,776 --> 00:15:27,171
+Und in derselben Zeit spricht sie einundsechzig Sekunden.
+
+213
+00:15:27,291 --> 00:15:30,951
+Der Sprung ist nicht der Moment, in dem sie aufgibt.
+
+214
+00:15:31,071 --> 00:15:39,349
+Er ist der einzige Vorgang in acht Folgen, bei dem niemand vorher gefragt wird und niemand ihn rückgängig machen kann.
+
+215
+00:15:39,469 --> 00:15:42,374
+Das ist der grausame Teil.
+
+216
+00:15:42,494 --> 00:15:44,076
+Nicht der Tod.
+
+217
+00:15:44,196 --> 00:15:48,703
+Sondern dass er die einzige Handlung ist, die ihr gehört.
+
+218
+00:15:48,823 --> 00:15:51,770
+Deshalb zeige ich das Bild nicht.
+
+219
+00:15:51,890 --> 00:15:54,603
+Das Bild macht daraus ein Ereignis.
+
+220
+00:15:54,723 --> 00:15:58,381
+Ein Schock, über den man am nächsten Tag redet.
+
+221
+00:15:58,501 --> 00:16:01,156
+Die Serie hat aber keinen Schock gebaut.
+
+222
+00:16:01,276 --> 00:16:07,411
+Sie hat sieben Folgen lang etwas abgeräumt, und in der achten war nichts mehr da.
+
+223
+00:16:07,531 --> 00:16:12,391
+Wenn dir das beim ersten Schauen entgangen ist, liegt das nicht an dir.
+
+224
+00:16:12,511 --> 00:16:19,529
+Es liegt daran, dass Figuren, die wenig sagen, in unserer Wahrnehmung wenig wiegen.
+
+225
+00:16:19,649 --> 00:16:22,460
+Wir merken uns, wer redet.
+
+226
+00:16:22,580 --> 00:16:24,626
+Deswegen messe ich.
+
+227
+00:16:24,746 --> 00:16:29,710
+Eine Zahl kann sehen, was die Aufmerksamkeit übersieht.
+
+228
+00:16:29,830 --> 00:16:35,558
+Eine Sache noch, und die geht an die Serie, nicht an die Figur.
+
+229
+00:16:35,678 --> 00:16:41,613
+Man kann eine Geschichte über eine Frau erzählen, der die Sprache genommen wird.
+
+230
+00:16:41,733 --> 00:16:49,617
+Das ist ein legitimer Stoff, und die dritte Staffel erzählt ihn konsequenter, als ihr die meisten zugestehen.
+
+231
+00:16:49,737 --> 00:16:53,197
+Man kann sie aber nur einmal erzählen.
+
+232
+00:16:53,317 --> 00:16:58,546
+Beim zweiten Mal ist es keine Beobachtung mehr, sondern eine Gewohnheit.
+
+233
+00:16:58,666 --> 00:17:02,742
+Ob Staffel vier das weiß, sehen wir im nächsten Jahr.
+
+234
+00:17:02,862 --> 00:17:10,631
+Wenn dir diese Art von Analyse etwas bringt: Abo, und schau dir die Folgenbesprechungen an.
+
+235
+00:17:10,751 --> 00:17:18,508
+Da ist jede einzelne Folge der Staffel so auseinandergenommen, mit Musikkarten, Stillen und Schnittdichte.
+
+236
+00:17:18,628 --> 00:17:21,664
+Und schreib mir, was du gemessen haben willst.
+
+237
+00:17:21,784 --> 00:17:25,066
+Eine Zahl finde ich für jede Figur.
+
+238
+00:17:25,186 --> 00:17:26,916
+Bild für Bild.
+
+239
+00:17:27,036 --> 00:17:28,804
+Bis zum nächsten Mal.
